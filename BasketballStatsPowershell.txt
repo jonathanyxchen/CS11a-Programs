@@ -1,0 +1,72 @@
+PS C:\Users\陈宇轩\desktop\cs11a> java BasketballStats
+How many points do you get and what's your percentage?
+three_pointers_made:
+0
+three_pointers_missed:
+1
+two_pointers_made:
+0
+two_pointers_missed:
+1
+freethrows_made:
+0
+freethrows_missed:
+1
+You score 0.0 points in the game!
+You shoot 0.0 percent from three point line
+You shoot 0.0 percent from two point line
+You shoot 0.0 percent from freethrow line
+PS C:\Users\陈宇轩\desktop\cs11a> java BasketballStats
+How many points do you get and what's your percentage?
+three_pointers_made:
+1
+three_pointers_missed:
+2
+two_pointers_made:
+3
+two_pointers_missed:
+4
+freethrows_made:
+5
+freethrows_missed:
+6
+You score 14.0 points in the game!
+You shoot 33.33333333333333 percent from three point lin
+You shoot 42.857142857142854 percent from two point line
+You shoot 45.45454545454545 percent from freethrow line
+PS C:\Users\陈宇轩\desktop\cs11a> java BasketballStats
+How many points do you get and what's your percentage?
+three_pointers_made:
+4
+three_pointers_missed:
+6
+two_pointers_made:
+5
+two_pointers_missed:
+5
+freethrows_made:
+8
+freethrows_missed:
+2
+You score 30.0 points in the game!
+You shoot 40.0 percent from three point line
+You shoot 50.0 percent from two point line
+You shoot 80.0 percent from freethrow line
+PS C:\Users\陈宇轩\desktop\cs11a> java BasketballStats
+How many points do you get and what's your percentage?
+three_pointers_made:
+283
+three_pointers_missed:
+1192
+two_pointers_made:
+1923
+two_pointers_missed:
+1834
+freethrows_made:
+12038
+freethrows_missed:
+19492
+You score 16733.0 points in the game!
+You shoot 19.1864406779661 percent from three point line
+You shoot 51.184455682725584 percent from two point line
+You shoot 38.17951157627657 percent from freethrow line

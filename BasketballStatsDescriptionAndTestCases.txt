@@ -1,0 +1,32 @@
+Title: Basketball Stats
+
+Description:
+This program counts three_pointers_made, two_pointers_made, freethrows_made(which is 1 point),
+three_pointers_missed, two_pointers_missed and freethrows_missed
+in a basketball game for either a team or a player, and calculates the 
+points and percentage from three point line, two point line and freethrow line.
+
+Test cases:
+0 three_pointers_made, 1 three_pointers_missed,
+0 two_pointers_made, 1 two_pointers_missed,
+0 freethrows_made, 1 freethrows_missed, 
+the answer is 0 points, 0 percent from three point line, 
+0 percent from two point line, and 0 percent from freethrow line.
+
+1 three_pointers_made, 2 three_pointers_missed,
+3 two_pointers_made, 4 two_pointers_missed,
+5 freethrows_made, 6 freethrows_missed, 
+the answer is 14 points, 33.33333333333333 percent from three point line, 
+42.857142857142854 percent from two point line, and 45.45454545454545 percent from freethrow line.
+
+4 three_pointers_made, 6 three_pointers_missed,
+5 two_pointers_made, 5 two_pointers_missed,
+8 freethrows_made, 2 freethrows_missed, 
+the answer is 30 points, 40 percent from three point line, 
+50 percent from two point line, and 80 percent from freethrow line.
+
+283 three_pointers_made, 1192 three_pointers_missed,
+1923 two_pointers_made, 1834 two_pointers_missed,
+12038 freethrows_made, 19492 freethrows_missed, 
+the answer is 16733 points, 19.1864406779661 percent from three point line, 
+51.184455682725584 percent from two point line, and 38.17951157627657 percent from freethrow line.
